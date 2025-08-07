@@ -1,0 +1,17 @@
+python-telegram-bot==20.7
+requests==2.31.0
+psutil==5.9.6
+flask==2.3.3
+werkzeug==2.3.7
+sqlite3
+asyncio
+uuid
+csv
+io
+datetime
+subprocess
+shutil
+json
+logging
+os
+sys
